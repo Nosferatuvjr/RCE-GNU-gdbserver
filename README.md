@@ -7,7 +7,6 @@ $ git clone https://github.com/Nosferatuvjr/RCE-GNU-gdbserver
 $ cd RCE-GNU-gdbserver
 # Instale as dependências
 $ pip3 install -r requirements.txt
-# Substitua o endereço de link pelo seu alvo
 # Rode o script
 $ python3 exploit.py -h
 ```
